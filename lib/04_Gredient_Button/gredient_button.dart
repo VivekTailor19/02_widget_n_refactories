@@ -11,8 +11,8 @@ class _Gredient_ButtonState extends State<Gredient_Button> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey.shade700,
-      appBar: AppBar(backgroundColor: Colors.grey.shade700,
+      backgroundColor: Color(0xff48416A),
+      appBar: AppBar(backgroundColor: Color(0xff48416A),
         title: Text(
           "Gredient Button",
           style: TextStyle(color: Colors.white, fontSize: 25),

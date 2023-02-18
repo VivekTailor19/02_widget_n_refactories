@@ -12,7 +12,7 @@ void main() {
   runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Indian_Flag(),
+      home: Gredient_Button(),
     ),
   );
 }
